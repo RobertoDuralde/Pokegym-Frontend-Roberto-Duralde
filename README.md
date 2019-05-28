@@ -12,4 +12,4 @@ With all due dependencies installed and up to date, follow these steps to run th
   
   2.- Once the API is running, open the index.html file in your browser (tested on Google Chrome).
   
-  3.- Initially, 18 pokemons will show in the view. After that and every second, a new pokemon is drawn from the queue and written on a         position in the table (starting from top to bottom). After all pokemons were shown, an alert will be displayed notifying that no           more pokemons are left.
+  3.- Initially, 18 pokemons will show in the view. After that and every second, a new pokemon is drawn from the queue and written on a         position in the table (starting from top to bottom). After all pokemons were shown, an alert will be displayed notifying that there       are no pokemons left on the queue.
